@@ -1,11 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shyam Matam</h1>
 <h3 align="center">🚀 Frontend Developer | MERN Stack Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Passionate+about+building+beautiful+web+experiences;Always+learning+new+technologies;Let's+create+something+amazing!" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
