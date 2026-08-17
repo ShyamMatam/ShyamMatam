@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shyam Matam</h1>
-<h3 align="center">🚀 Frontend Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">🚀 FullStack Developer(MERN)</h3>
 ---
 
 ### 👨‍💻 About Me
