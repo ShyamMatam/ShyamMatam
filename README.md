@@ -33,12 +33,19 @@
 ---
 
 ### 📈 GitHub Stats
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shyammatam&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p> -->
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shyammatam&show_icons=true&locale=en" alt="GitHub Stats" />
+</p> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shyammatam&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyammatam&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shyammatam&show_icons=true&locale=en&include_all_commits=true&count_private=true&commits_year=2026&v=2" alt="GitHub Stats" />
 </p>
+---
 ---
 
 ### 🤝 Connect with Me
